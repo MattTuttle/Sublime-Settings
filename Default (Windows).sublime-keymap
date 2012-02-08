@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+t"], "command": "tweet" },
+	{ "keys": ["ctrl+alt+r"], "command": "read_tweets" }
+]

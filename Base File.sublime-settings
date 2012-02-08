@@ -1,0 +1,26 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 9,
+	"highlight_line": true,
+	"jshint_options":
+	{
+		"browser": true,
+		"curly": true,
+		"eqeqeq": true,
+		"evil": false,
+		"expr": true,
+		"jquery": true,
+		"latedef": true,
+		"newcap": true,
+		"noarg": true,
+		"noempty": true,
+		"onecase": false,
+		"shadow": false,
+		"undef": true
+	},
+	"move_to_limit_on_up_down": true,
+	"scroll_past_end": false,
+	"trim_trailing_white_space_on_save": true
+}
