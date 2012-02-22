@@ -2,3 +2,6 @@ Fetch.sublime-settings
 SFTP.sublime-settings
 SublimeTweet.settings
 Package Control.sublime-settings
+
+Thumbs.db
+.DS_Store
