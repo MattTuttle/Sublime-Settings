@@ -1,9 +1,4 @@
 {
-	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
-	"font_face": "AndaleMono",
-	"font_size": 13,
-	"highlight_line": true,
 	"jshint_options":
 	{
 		"browser": true,
@@ -20,17 +15,14 @@
 		"shadow": false,
 		"undef": true
 	},
-	"move_to_limit_on_up_down": true,
-	"scroll_past_end": false,
-	"trim_trailing_white_space_on_save": true,
 	"binary_file_patterns":
 	[
 		"*.psd"
 	],
-	"detect_slow_plugins": false,
 	"file_exclude_patterns":
 	[
 		"Thumbs.db",
+		".DS_Store",
 		"*.log",
 		"*.gz",
 		"*.jpg",
@@ -53,6 +45,12 @@
 	[
 		"Vintage"
 	],
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"highlight_line": true,
+	"move_to_limit_on_up_down": true,
+	"scroll_past_end": false,
+	"trim_trailing_white_space_on_save": true,
+	"detect_slow_plugins": false,
 	"remember_open_files": false,
 	"show_tab_close_buttons": false,
 	"theme": "Soda Dark.sublime-theme",
