@@ -3,7 +3,7 @@
 	[
 		"*.psd"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"color_scheme": "Packages/User/Pastel.tmTheme",
 	"detect_slow_plugins": false,
 	"folder_exclude_patterns":
 	[
