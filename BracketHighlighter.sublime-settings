@@ -1,0 +1,8 @@
+{
+	"quote_scope" : "variable",
+    "curly_scope" : "number",
+    "round_scope" : "number",
+    "square_scope": "number",
+    "angle_scope" : "entity.name.class",
+    "tag_scope"   : "entity.name.class"
+}

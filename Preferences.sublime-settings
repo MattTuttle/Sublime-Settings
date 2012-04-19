@@ -1,4 +1,21 @@
 {
+	"binary_file_patterns":
+	[
+		"*.psd"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"detect_slow_plugins": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git"
+	],
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"jshint_options":
 	{
 		"browser": true,
@@ -15,44 +32,10 @@
 		"shadow": false,
 		"undef": true
 	},
-	"binary_file_patterns":
-	[
-		"*.psd"
-	],
-	"file_exclude_patterns":
-	[
-		"Thumbs.db",
-		".DS_Store",
-		"*.log",
-		"*.gz",
-		"*.jpg",
-		"*.jpeg",
-		"*.png",
-		"*.gif",
-		"*.pdf",
-		"*.zip",
-		"*.eot",
-		"*.svg",
-		"*.ttf",
-		"*.woff"
-	],
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git"
-	],
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
-	"highlight_line": true,
 	"move_to_limit_on_up_down": true,
-	"scroll_past_end": false,
-	"trim_trailing_white_space_on_save": true,
-	"detect_slow_plugins": false,
 	"remember_open_files": false,
-	"show_tab_close_buttons": false,
+	"scroll_past_end": false,
 	"theme": "Soda Dark.sublime-theme",
-	"tree_animation_enabled": false
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true
 }
